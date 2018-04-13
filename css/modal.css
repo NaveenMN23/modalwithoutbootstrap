@@ -23,15 +23,16 @@
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
-	padding-left: 2%;
-    padding-right: 2%;
+	padding-left: 15px;
+    padding-right: 15px;
 }
 .modal-headerclose{
-	padding-top: 4%;
+	padding-top: 20px;
 	cursor: pointer;
 }
 .modal-content{
-	padding: 4% 0%;
+	padding: 15px 0px;
+	text-align: justify;
 	border-bottom: 1px solid #e9ecef;
 }
 .modal-footer{
